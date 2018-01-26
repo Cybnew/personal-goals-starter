@@ -34,6 +34,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Month: January 2018
 - [ ] Read a book
 - [ ] Come up with a new side project
+- [ ] Create Content Calendar Template
 
 ### Backlog: Side Projects :)
 - [ ] Work on [Stand-in project](http://google.com)
