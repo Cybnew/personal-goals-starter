@@ -25,8 +25,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Sunday
 
 ## Things I'll Do This Week:
-- [ ] Sort Iphone Tabs Into Content List
-- [ ] Read 2 Articles From My Tabs
+- [ ] Sort Iphone Tabs Into Content List (Sunday)
+- [ ] Meet with Real Estate Agent(Friday)
+- [ ] Read 2 Articles From My Tabs Per Day
 - [ ] Create One Instagram Story
 - [ ] Read [this blog post](http://una.github.io/personal-goals-guide)
 
