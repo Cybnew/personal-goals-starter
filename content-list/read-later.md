@@ -18,16 +18,16 @@
 - [ ] [PremiumBeat](http://premiumbeat.com/)
 
 ### Business
--[ ] [How To Call Customers](https://mixergy.com/course-cheat-sheet-telesales/)
--[ ] [How Tesla Will Change The World](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)
--[ ] [The Cook And The Chef- Musks Secret Strategy](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
--[ ] [Launch A Startup Documentary](http://www.startupstoriespodcast.com)
--[ ] [How To Get Startup Ideas Paul Graham](http://paulgraham.com/startupideas.html)
--[ ] [Good Sales Emails](http://goodsalesemails.com)
--[ ] [Exponential Marketing Growth](https://sumo.com/stories/marketing-strategy)
--[ ] [Name Checker](https://namechk.com)
--[ ] [Elon Musk Thinking](http://www.businessinsider.com/elon-musk-first-principles-2015-1)
--[ ] [14 Books That Inspired Elon Musk](http://www.businessinsider.com/elon-musk-favorite-books-2015-10)
+- [ ] [How To Call Customers](https://mixergy.com/course-cheat-sheet-telesales/)
+- [ ] [How Tesla Will Change The World](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)
+- [ ] [The Cook And The Chef- Musks Secret Strategy](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+- [ ] [Launch A Startup Documentary](http://www.startupstoriespodcast.com)
+- [ ] [How To Get Startup Ideas Paul Graham](http://paulgraham.com/startupideas.html)
+- [ ] [Good Sales Emails](http://goodsalesemails.com)
+- [ ] [Exponential Marketing Growth](https://sumo.com/stories/marketing-strategy)
+- [ ] [Name Checker](https://namechk.com)
+- [ ] [Elon Musk Thinking](http://www.businessinsider.com/elon-musk-first-principles-2015-1)
+- [ ] [14 Books That Inspired Elon Musk](http://www.businessinsider.com/elon-musk-favorite-books-2015-10)
 
 
 ### Other
