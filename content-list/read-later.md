@@ -1,12 +1,54 @@
-#Things I want To Read Later
+# Things I want To Read Later
 
 ### Development/Computer Science
 
 - [ ] [CSS Guidelines](http://cssguidelin.es/)
+- [ ] [CSS Layout Testing Snippet](http://nicoledominguez.com/thoughts/css-layout-testing-snippet/)
+- [ ] [Code Newbie Intro To Api's](https://www.codenewbie.org/blogs/an-intro-to-apis)
+- [ ] [Rails Tutorial](https://www.railstutorial.org)
+- [ ] [Sandy Metz Rails Conf 2015 Nothing Is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE&app=desktop)
+- [ ] [The Dribbleization Of Design](https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026)
+- [ ] [Stories From 300 Developers First Tech Job 30s 40s 50s](https://medium.freecodecamp.org/stories-from-300-developers-who-got-their-first-tech-job-in-their-30s-40s-and-50s-64306eb6bb27)
+- [ ] [Base CS](https://medium.com/basecs)
+- [ ] [How To Build A Travel App From A Sketch to 15k Beta Users](https://blog.prototypr.io/how-to-build-a-travel-app-from-a-sketch-to-15k-beta-users-96ee941142bb)
+- [ ] [Learn UI Design From Zero Basis](https://blog.prototypr.io/how-to-learn-ui-design-from-zero-basis-e29fe4f2bd17)
+- [ ] [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
+- [ ] [List Of Fun Apps To Build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+- [ ] [Devhints - CHEAT SHEETS](https://devhints.io)
+- [ ] [A Gentle Intro To Algorithm Complexity](http://discrete.gr/complexity/)
+- [ ] [ABC- Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
+- [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e)
+- [ ] [Become A Social Developer](http://getinvolved.hanselman.com)
+- [ ] [CSS Deck](http://cssdeck.com)
+- [ ] [Modern JS For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+- [ ] [Heroku How To](http://scripting.com/2014/02/06/herokuForPoetsBeta.html)
+- [ ] [The Node Beginner Book](https://www.nodebeginner.org)
+- [ ] [How Ciara Went From College Student To Full Time Meteor Developer](https://learntocodewith.me/women/ciara-burkett/)
+- [ ] [Bug Muncher Blog](https://www.bugmuncher.com/blog/page9/)
+- [ ] [How To Do Code Reviews Like A Human](https://mtlynch.io/human-code-reviews-1/)
+- [ ] [OOP IN JS](http://wellpaidgeek.com/2017/09/02/object-oriented-programming-in-javascript-part-1-the-basics/)
+- [ ] [The Odin Project](https://www.theodinproject.com/courses?ref=home)
+- [ ] [My Developing Journey](http://theblackc000000de.blogspot.com/2014/05/do-this-before-you-bloc.html?m=1)
+- [ ] [A Dream Come True - A Year In Review as a Developer](https://mxstbr.blog/2016/12/a-dream-come-true/)
+- [ ] [JS30 30 Days of JS Tutorials](https://javascript30.com)
+- [ ] [Every Fucking Bootstrap Site Ever](http://adventurega.me/bootstrap/#)
+- [ ] [Build Your Product API First](https://blog.ipinfo.io/why-you-should-build-your-company-on-apis-2b0027459a91)
 
 ### Cars
 
 - [ ] [Jalopnik](http://jalopnik.com/)
+- [ ] [2019 Silverado Coolshit](https://jalopnik.com/all-the-cool-stuff-were-excited-about-on-the-2019-chevr-1822399931)
+- [ ] [Liberty Walk Lambo Miura](https://jalopnik.com/why-liberty-walk-made-the-most-outrageous-lamborghini-m-1822089907)
+- [ ] [Best Of Hoonigan Crashes](https://jalopnik.com/tidy-donuts-are-so-much-harder-than-they-look-1821709206)
+- [ ] [Trackday Trailer Build ](http://www.planet-9.com/987-cayman-and-boxster-competition/139641-track-day-autocross-trailer-build.html#/topics/139641)
+- [ ] [Setting Up FRS For Drifting](http://www.ft86club.com/forums/showpost.php?p=2245055&postcount=394)
+- [ ] [Honda Africa Twin Vlogs](https://www.youtube.com/watch?feature=youtu.be&v=16vx0VkKBpY&list=PLO52xIq3nQOdZW5_TRp9PJdKZ2Px8TLds&app=desktop)
+- [ ] [Best Nurburgrings](https://jalopnik.com/enjoy-these-mega-cuts-of-the-nurburgrings-biggest-fails-1821198627)
+- [ ] [The Wolf Of Autostrada](https://jalopnik.com/wolf-of-the-autostrada-is-your-80s-european-oligarch-st-1821213966)
+- [ ] [Hooked On Driving HPDE](https://www.hookedondriving.com/first-timers)
+- [ ] [Stop Motion Miata Teardown](https://jalopnik.com/this-gorgeous-stop-motion-teardown-of-a-miata-engine-is-1797817146)
+- [ ] [My Salvage Corvette Is Fastest Up Pikes Peak](https://jalopnik.com/my-salvage-z06-is-the-fastest-corvette-ever-to-go-up-pi-1796489202)
+- [ ] [Crazy Drone Operators Filming Drifting](https://jalopnik.com/these-drone-operators-are-as-crazy-as-the-rad-drifters-1796301736)
 - [ ] [Going Batshit Crazy At Pikes Peak](https://jalopnik.com/going-batshit-crazy-at-pike-peak-1782984194)
 - [ ] [Random FATF Stuff](https://jalopnik.com/heres-every-random-bit-of-fast-and-furious-bullshit-you-1793976965)
 - [ ] [How To Avoid Screwing Up Your First Trackday](https://jalopnik.com/how-to-avoid-screwing-up-your-first-track-day-like-i-di-1788780111)
@@ -16,9 +58,22 @@
 ### Video
 
 - [ ] [PremiumBeat](http://premiumbeat.com/)
+- [ ] [How To Get More Views On Youtube](https://www.socialmediaexaminer.com/youtube-ranking-how-to-get-more-views-on-youtube-sean-cannell/?utm_source=Newsletter&utm_medium=NewsletterIssue&utm_campaign=New)
+- [ ] [The Mobile Filmmaker's Bag](https://www.flickr.com/photos/sombrasdeseptiembre/32687017756/in/pool-2301352@N21/)
 
 ### Business
 - [ ] [How To Call Customers](https://mixergy.com/course-cheat-sheet-telesales/)
+- [ ] [How To Create A Business That Prints Money](https://foreverjobless.com/how-to-create-a-business-that-prints-money/)
+- [ ] [How To Set Goals If You're Not Sure What You Want](https://foreverjobless.com/how-to-set-goals/)
+- [ ] [How To Get Lucky in E-Commerce](https://foreverjobless.com/how-to-get-lucky-in-e-commerce/)
+- [ ] [How To Buy A Ferrari For 20k](https://foreverjobless.com/how-to-buy-a-ferrari-for-20k/
+- [ ] [Expected Value](https://foreverjobless.com/ev-millionaires-math/)
+- [ ] [You Do Not Need Money To Start A Business](https://foreverjobless.com/you-do-not-need-money-to-start-a-business/)
+- [ ] [The Packed Gym Of Failure](https://foreverjobless.com/dont-quit/)
+- [ ] [Sunken Cost Fallacy](https://foreverjobless.com/sunk-cost-fallacy/)
+- [ ] [Accomplish Any Goal You Want](https://foreverjobless.com/how-to-change-your-life-this-year-by-accomplishing-any-goal-you-want/)
+- [ ] [Ecommerce Blueprint](https://www.shopify.com/blog/14459769-ecommerce-business-blueprint-how-to-build-launch-and-grow-a-profitable-online-store)
+- [ ] [SaaS Metrics For Dummies](http://www.founderviews.com/saas-metrics-for-dummies/)
 - [ ] [How Tesla Will Change The World](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)
 - [ ] [The Cook And The Chef- Musks Secret Strategy](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 - [ ] [Launch A Startup Documentary](http://www.startupstoriespodcast.com)
@@ -32,9 +87,32 @@
 
 ### Other
 - [ ] [Google](http://google.com)
+- [ ] [How To Invest In Legal Weed](https://twocents.lifehacker.com/how-to-invest-in-legal-weed-1822368702)
+- [ ] [How Boomarang Team Works](https://lifehacker.com/were-the-boomerang-team-and-this-is-how-we-work-1821827486)
+- [ ] [FunkoPop Captain America Short](https://io9.gizmodo.com/this-funko-pop-captain-america-short-is-actually-amazin-1822279616)
+- [ ] [Controversy Surrounding Youtubers Request Will Make Your Head Hurt](https://gizmodo.com/this-controversy-surrounding-this-youtubers-request-for-1822263734)
+- [ ] [Why 9/11 Truthers Are Obsessed With Fire In Tehran](https://gizmodo.com/why-9-11-truthers-are-obsessed-with-the-plasco-high-ris-1822203542)
+- [ ] [A Tiny USB Drive That Explodes](https://medium.com/@_MG_/mr-self-destruct-7986998f32a8)
+- [ ] [Twitch Royalty Free Music Megathread](https://amp.reddit.com/r/Twitch/comments/2bnx95/royalty_free_music_megathread/)
+- [ ] [IBM Watson PM- How I Work](https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759)
+- [ ] [Build Easy Set It And Forget It Investment Portfolio](https://twocents.lifehacker.com/how-to-build-an-easy-beginner-set-and-forget-investm-1686878594)
+- [ ] [Ipad Gestures You Should Master](https://lifehacker.com/the-ipad-gestures-you-should-master-1821817363)
+- [ ] [How To Automate Your Mornings](https://lifehacker.com/how-to-automate-your-mornings-1821810607)
+- [ ] [How Reddit Email Vulnerability Led To Thousands In Stolen BC Cash](https://gizmodo.com/reddit-email-vulnerability-leads-to-thousands-of-dollar-1821808073)
+- [ ] [How I Built A Habit Of Exercise](https://lifehacker.com/from-zero-to-45-days-in-a-row-how-i-built-a-habit-of-d-1769654337)
+- [ ] [Best Fitness Hacks 2017](https://vitals.lifehacker.com/the-best-fitness-hacks-of-2017-1821260599)
+- [ ] [How To Create Your First D&D Character](https://lifehacker.com/how-to-create-your-first-dungeons-dragons-character-1820441940)
+- [ ] [Troubleshooting 3d Print Issues](https://www.simplify3d.com/support/print-quality-troubleshooting/#not-extruding-enough-plastic)
+- [ ] [How To Make 2 Weeks Worth Of Breakfasts On A Single Sheetpan](https://skillet.lifehacker.com/make-two-weeks-worth-of-breakfasts-with-one-sheet-pan-1819690171)
+- [ ] [Junkead Animated Sci-Fi Short](https://io9.gizmodo.com/junk-head-is-a-stop-motion-animated-scifi-action-film-y-1818701586)
 - [ ] [The Ai Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [ ] [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
 - [ ] [Tools For Working From Home](https://fieldguide.gizmodo.com/12-tools-and-apps-that-make-working-from-home-easier-1796253657)
 - [ ] [VR Holacaust Documentary](https://gizmodo.com/a-devastating-holocaust-documentary-proves-vr-filmmakin-1794610959)
 - [ ] [How To Get Into D&D](https://kotaku.com/how-to-get-into-dungeons-dragons-1793608193)
 - [ ] [Awesome Scrambled Eggs](https://lifehacker.com/5199462/gordon-ramsay-demonstrates-the-perfect-scrambled-egg-breakfast)
+
+
+
+### Things I want To Buy?
+- [ ] [Not Fade A Way](https://www.amazon.com/Not-Fade-Away-Short-Lived/dp/006073731X )
