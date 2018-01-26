@@ -20,7 +20,7 @@
 ### Business
 -[ ] [How To Call Customers](https://mixergy.com/course-cheat-sheet-telesales/)
 -[ ] [How Tesla Will Change The World](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)
--[ ] [The Cook And The Chef- Musks Secret Strategy](hhttps://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+-[ ] [The Cook And The Chef- Musks Secret Strategy](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 -[ ] [Launch A Startup Documentary](http://www.startupstoriespodcast.com)
 -[ ] [How To Get Startup Ideas Paul Graham](http://paulgraham.com/startupideas.html)
 -[ ] [Good Sales Emails](http://goodsalesemails.com)
