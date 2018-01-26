@@ -66,7 +66,7 @@
 - [ ] [How To Create A Business That Prints Money](https://foreverjobless.com/how-to-create-a-business-that-prints-money/)
 - [ ] [How To Set Goals If You're Not Sure What You Want](https://foreverjobless.com/how-to-set-goals/)
 - [ ] [How To Get Lucky in E-Commerce](https://foreverjobless.com/how-to-get-lucky-in-e-commerce/)
-- [ ] [How To Buy A Ferrari For 20k](https://foreverjobless.com/how-to-buy-a-ferrari-for-20k/
+- [ ] [How To Buy A Ferrari For 20k](https://foreverjobless.com/how-to-buy-a-ferrari-for-20k/)
 - [ ] [Expected Value](https://foreverjobless.com/ev-millionaires-math/)
 - [ ] [You Do Not Need Money To Start A Business](https://foreverjobless.com/you-do-not-need-money-to-start-a-business/)
 - [ ] [The Packed Gym Of Failure](https://foreverjobless.com/dont-quit/)
