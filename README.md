@@ -18,7 +18,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
+- [x] Play with kitties
 - [ ] Watch 2 videos from my content list about ______
 - [ ] Write a blog post
 - [ ] Continue learning about narwhals
