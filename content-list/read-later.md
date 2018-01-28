@@ -3,6 +3,11 @@
 ### Development/Computer Science
 
 - [ ] [CSS Guidelines](http://cssguidelin.es/)
+- [ ] [99 Bottles of OOD Postcard Link](https://www.sandimetz.com/99bottles/postcard)
+- [ ] [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
+- [ ] [Bachelors Level CS Program](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+- [ ] [Python Meetup](https://www.meetup.com/PSPPython/events/246329663/)
+- [ ] [Linux on Surface Pro](https://ramsdenj.com/2016/08/29/arch-linux-on-the-surface-pro-4.html)
 - [ ] [CSS Layout Testing Snippet](http://nicoledominguez.com/thoughts/css-layout-testing-snippet/)
 - [ ] [Code Newbie Intro To Api's](https://www.codenewbie.org/blogs/an-intro-to-apis)
 - [ ] [Rails Tutorial](https://www.railstutorial.org)
@@ -37,6 +42,9 @@
 ### Cars
 
 - [ ] [Jalopnik](http://jalopnik.com/)
+- [ ] [High Speed Drifting Video -Nori](https://jalopnik.com/here-is-some-high-speed-drifting-for-your-fun-and-excit-1821089585)
+- [ ] [2019 Dodge Ram 1500 Cab Neat Shit](https://jalopnik.com/the-2019-ram-1500s-colossal-cab-is-full-of-cool-stuff-1822465012)
+- [ ] [2019 Dodge Ram 1500 Cool Tech](https://jalopnik.com/a-close-look-at-the-2019-ram-1500s-coolest-tech-1822465887)
 - [ ] [2019 Silverado Coolshit](https://jalopnik.com/all-the-cool-stuff-were-excited-about-on-the-2019-chevr-1822399931)
 - [ ] [Liberty Walk Lambo Miura](https://jalopnik.com/why-liberty-walk-made-the-most-outrageous-lamborghini-m-1822089907)
 - [ ] [Best Of Hoonigan Crashes](https://jalopnik.com/tidy-donuts-are-so-much-harder-than-they-look-1821709206)
@@ -54,14 +62,29 @@
 - [ ] [How To Avoid Screwing Up Your First Trackday](https://jalopnik.com/how-to-avoid-screwing-up-your-first-track-day-like-i-di-1788780111)
 - [ ] 
 
+### FRS/BRZ
+- [ ] [Best Suspension Mods](https://blog.modbargains.com/best-suspension-mods-for-fr-s-brz-zn6zc6/)
+- [ ] [Fix Torque Dip](https://blog.modbargains.com/fix-torque-dip-scion-fr-ssubaru-brz/)
+- [ ] [Run e85 with openflash](http://www.ft86club.com/forums/showthread.php?t=67310)
+- [ ] [Run e85 with openflash second source](https://blog.modbargains.com/expert-review-plug-and-play-performance-for-the-frsbrz-with-vishnu-openflash-tablet/)
+
 
 ### Video
 
 - [ ] [PremiumBeat](http://premiumbeat.com/)
+- [ ] [PremiumBeat- Optimize FB Video Posts](https://www.premiumbeat.com/blog/facebook-hack-optimize-video-posts/)
+- [ ] [PremiumBeat- Export Subtitles](https://www.premiumbeat.com/blog/export-youtube-subtitles-premiere-pro/)
+- [ ] [PremiumBeat- Read Lumetri Scopes](https://www.premiumbeat.com/blog/read-lumetri-scopes-premiere-pro/)
+- [ ] [PremiumBeat- Audio Track Effects](https://www.premiumbeat.com/blog/audio-track-effects-premiere-pro/)
+- [ ] [PremiumBeat- Free Luts for Log Footage](https://www.premiumbeat.com/blog/free-luts-log-footage/)
+- [ ] [PremiumBeat- Create Keyboard Shortcuts (top 5)](https://www.premiumbeat.com/blog/create-keyboard-shortcuts-premiere-pro/)
+- [ ] [PremiumBeat- Editing Audio With Essential Sound Panel](https://www.premiumbeat.com/blog/edit-audio-with-essential-sound-panel/)
+- [ ] [Instagram Automation Article](https://blog.hootsuite.com/i-tried-instagram-automation-so-you-dont-have-to/)
 - [ ] [How To Get More Views On Youtube](https://www.socialmediaexaminer.com/youtube-ranking-how-to-get-more-views-on-youtube-sean-cannell/?utm_source=Newsletter&utm_medium=NewsletterIssue&utm_campaign=New)
 - [ ] [The Mobile Filmmaker's Bag](https://www.flickr.com/photos/sombrasdeseptiembre/32687017756/in/pool-2301352@N21/)
 
 ### Business
+- [ ] [Instagram Ads Info](https://blog.bufferapp.com/instagram-ads-guide)
 - [ ] [How To Call Customers](https://mixergy.com/course-cheat-sheet-telesales/)
 - [ ] [How To Create A Business That Prints Money](https://foreverjobless.com/how-to-create-a-business-that-prints-money/)
 - [ ] [How To Set Goals If You're Not Sure What You Want](https://foreverjobless.com/how-to-set-goals/)
@@ -87,6 +110,8 @@
 
 ### Other
 - [ ] [Google](http://google.com)
+- [ ] [D&D Insider Hacks](https://kotaku.com/d-d-rules-designers-9-insider-hacks-for-players-and-dms-1798345147)
+- [ ] [Redeaming Lawful Good](https://kotaku.com/how-to-redeem-d-ds-worst-alignment-which-is-obviously-1796825496)
 - [ ] [How To Invest In Legal Weed](https://twocents.lifehacker.com/how-to-invest-in-legal-weed-1822368702)
 - [ ] [How Boomarang Team Works](https://lifehacker.com/were-the-boomerang-team-and-this-is-how-we-work-1821827486)
 - [ ] [FunkoPop Captain America Short](https://io9.gizmodo.com/this-funko-pop-captain-america-short-is-actually-amazin-1822279616)
