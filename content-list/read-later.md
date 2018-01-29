@@ -1,4 +1,4 @@
-# Things I want To Read Later
+ Things I want To Read Later
 
 ### Development/Computer Science
 
@@ -28,7 +28,7 @@
 - [ ] [Modern JS For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [ ] [Heroku How To](http://scripting.com/2014/02/06/herokuForPoetsBeta.html)
 - [ ] [The Node Beginner Book](https://www.nodebeginner.org)
-- [ ] [How Ciara Went From College Student To Full Time Meteor Developer](https://learntocodewith.me/women/ciara-burkett/)
+- [x] [How Ciara Went From College Student To Full Time Meteor Developer](https://learntocodewith.me/women/ciara-burkett/)
 - [ ] [Bug Muncher Blog](https://www.bugmuncher.com/blog/page9/)
 - [ ] [How To Do Code Reviews Like A Human](https://mtlynch.io/human-code-reviews-1/)
 - [ ] [OOP IN JS](http://wellpaidgeek.com/2017/09/02/object-oriented-programming-in-javascript-part-1-the-basics/)
