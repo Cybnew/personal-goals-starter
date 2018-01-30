@@ -3,6 +3,7 @@
 ### Development/Computer Science
 
 - [ ] [CSS Guidelines](http://cssguidelin.es/)
+- [ ] [Meteor Videos](https://www.youtube.com/user/MeteorVideos)
 - [ ] [99 Bottles of OOD Postcard Link](https://www.sandimetz.com/99bottles/postcard)
 - [ ] [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 - [ ] [Bachelors Level CS Program](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
