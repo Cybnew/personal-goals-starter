@@ -1,4 +1,4 @@
- Things I want To Read Later
+d Things I want To Read Later
 
 ### Development/Computer Science
 
@@ -39,6 +39,18 @@
 - [ ] [JS30 30 Days of JS Tutorials](https://javascript30.com)
 - [ ] [Every Fucking Bootstrap Site Ever](http://adventurega.me/bootstrap/#)
 - [ ] [Build Your Product API First](https://blog.ipinfo.io/why-you-should-build-your-company-on-apis-2b0027459a91)
+- [ ] [Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav)
+- [ ] [JS Functions](http://javascript.info/function-expressions-arrows)
+- [ ] [Netflix Landing Page Recreation](https://codepen.io/AndreiKnight/pen/KmmqdW)
+- [ ] [Five Things I Wish I knew Starting Out](https://codepen.io/tomhodgins/post/five-things-i-wish-i-knew-starting-out)
+- [ ] [Sass Cheat Sheet](https://codepen.io/mimoduo/post/sass-cheat-sheet)
+- [ ] [How coding can be self motivating](https://codepen.io/aaronrhoades/post/writing-code-can-be-self-motivating)
+- [ ] [A Tiny Full Stack Feature](https://codepen.io/antibland/post/a-tiny-full-stack-feature) 
+- [ ] [Front End Checklist](https://frontendchecklist.io/) 
+- [ ] [Most Used Git Commands](https://codepen.io/Lunnaris/post/my-most-used-git-commands) 
+- [ ] [How I Construct A Pen](https://codepen.io/netsi1964/post/how-i-construct-a-pen-on-codepen) 
+- [ ] [From Zero To Deploy](https://www.railstutorial.org/book/beginning#sec-up_and_running) 
+- [ ] []() 
 
 ### Cars
 
@@ -140,5 +152,5 @@
 
 
 
-### Things I want To Buy?
-- [ ] [Not Fade A Way](https://www.amazon.com/Not-Fade-Away-Short-Lived/dp/006073731X )
+### Shop/Other
+- [ ] [Awesome Blast Gates](http://benchblog.com/how-tos/how-to-make-blast-gates-for-your-woodworking-shop-dust-collection-system/ )
