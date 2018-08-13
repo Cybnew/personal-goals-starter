@@ -50,6 +50,14 @@ d Things I want To Read Later
 - [ ] [Most Used Git Commands](https://codepen.io/Lunnaris/post/my-most-used-git-commands) 
 - [ ] [How I Construct A Pen](https://codepen.io/netsi1964/post/how-i-construct-a-pen-on-codepen) 
 - [ ] [From Zero To Deploy](https://www.railstutorial.org/book/beginning#sec-up_and_running) 
+- [ ] [Rails Bridge](http://www.railsbridge.org) 
+- [ ] [Pragmatic Programmer](https://pragprog.com/book/elixir/programming-elixir) 
+- [ ] [CodeWars](https://www.codewars.com) 
+- [ ] [Hackhands](https://hackhands.com/blog/#2) 
+- [ ] [100 Websites in 100 days](http://blog.jenniferdewalt.com) 
+- [ ] [CodeKata](http://codekata.com) 
+- [ ] [Learn Bootstrap 4 in 30 min](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33) 
+- [ ] [Teach Yourself Computer Science](https://lifehacker.com/teach-yourself-computer-science-using-this-site-1824287559) 
 - [ ] []() 
 
 ### Cars
@@ -73,14 +81,19 @@ d Things I want To Read Later
 - [ ] [Going Batshit Crazy At Pikes Peak](https://jalopnik.com/going-batshit-crazy-at-pike-peak-1782984194)
 - [ ] [Random FATF Stuff](https://jalopnik.com/heres-every-random-bit-of-fast-and-furious-bullshit-you-1793976965)
 - [ ] [How To Avoid Screwing Up Your First Trackday](https://jalopnik.com/how-to-avoid-screwing-up-your-first-track-day-like-i-di-1788780111)
-- [ ] 
+- [ ] [How to turn up modern car](https://jalopnik.com/heres-how-to-do-a-tune-up-on-a-modern-gasoline-car-1822054225)
+- [ ] [Why Drifters Still Love Japan](https://jalopnik.com/heres-why-drifters-all-over-the-world-are-still-obsesse-1823037473) 
+- [ ] [Top Gear 90's Japanese Cars](https://jalopnik.com/top-gears-japan-episode-blew-my-mind-with-90s-sports-ca-1823737773) 
+- [ ] [James Deane Bitching Drifting](https://jalopnik.com/i-still-dont-understand-how-he-does-this-1824003981) 
+- [ ] [MX-5 Rain Racing](https://jalopnik.com/mx-5-cup-racing-in-the-rain-is-pure-insanity-that-you-n-1824147355) 
+- [ ] []() 
 
 ### FRS/BRZ
 - [ ] [Best Suspension Mods](https://blog.modbargains.com/best-suspension-mods-for-fr-s-brz-zn6zc6/)
 - [ ] [Fix Torque Dip](https://blog.modbargains.com/fix-torque-dip-scion-fr-ssubaru-brz/)
 - [ ] [Run e85 with openflash](http://www.ft86club.com/forums/showthread.php?t=67310)
 - [ ] [Run e85 with openflash second source](https://blog.modbargains.com/expert-review-plug-and-play-performance-for-the-frsbrz-with-vishnu-openflash-tablet/)
-
+- [ ] []() 
 
 ### Video
 
@@ -95,6 +108,7 @@ d Things I want To Read Later
 - [ ] [Instagram Automation Article](https://blog.hootsuite.com/i-tried-instagram-automation-so-you-dont-have-to/)
 - [ ] [How To Get More Views On Youtube](https://www.socialmediaexaminer.com/youtube-ranking-how-to-get-more-views-on-youtube-sean-cannell/?utm_source=Newsletter&utm_medium=NewsletterIssue&utm_campaign=New)
 - [ ] [The Mobile Filmmaker's Bag](https://www.flickr.com/photos/sombrasdeseptiembre/32687017756/in/pool-2301352@N21/)
+- [ ] []() 
 
 ### Business
 - [ ] [Instagram Ads Info](https://blog.bufferapp.com/instagram-ads-guide)
@@ -119,6 +133,10 @@ d Things I want To Read Later
 - [ ] [Name Checker](https://namechk.com)
 - [ ] [Elon Musk Thinking](http://www.businessinsider.com/elon-musk-first-principles-2015-1)
 - [ ] [14 Books That Inspired Elon Musk](http://www.businessinsider.com/elon-musk-favorite-books-2015-10)
+- [ ] [What Freelancesrs Can Write Off on Their Taxes](https://twocents.lifehacker.com/what-freelancers-can-write-off-on-their-taxes-1823079342) 
+- [ ] [How to use smart home to help you work from home](https://lifehacker.com/use-your-smart-home-devices-to-help-you-work-from-home-1823191406) 
+- [ ] [How to budget as a freelancer](https://twocents.lifehacker.com/how-to-budget-as-a-freelancer-1823156864) 
+- [ ] []() 
 
 
 ### Other
@@ -149,8 +167,17 @@ d Things I want To Read Later
 - [ ] [VR Holacaust Documentary](https://gizmodo.com/a-devastating-holocaust-documentary-proves-vr-filmmakin-1794610959)
 - [ ] [How To Get Into D&D](https://kotaku.com/how-to-get-into-dungeons-dragons-1793608193)
 - [ ] [Awesome Scrambled Eggs](https://lifehacker.com/5199462/gordon-ramsay-demonstrates-the-perfect-scrambled-egg-breakfast)
+- [ ] [DM Guild](http://www.dmsguild.com/product/183633)
+- [ ] [Guide To Classes](https://geekandsundry.com/new-to-dd-heres-how-to-start-every-type-of-character-class/) 
+- [ ] [Increase the amount you read](http://www.asianefficiency.com/productivity/step-step-guide-dramatically-increasing-amount-read/) 
+- [ ] [20 Apps to save time](http://www.asianefficiency.com/productivity/20-apps-save-tons-time-desk-job/) 
+- [ ] [How to choose your character class](https://kotaku.com/how-to-choose-your-d-d-character-class-1823560976) 
+- [ ] [Food Substitutions You Actually Enjoy](https://skillet.lifehacker.com/what-healthy-substitutions-do-you-actually-enjoy-1823895023) 
+- [ ] [Learn Pixel Art](https://lifehacker.com/learn-pixel-art-with-these-566-tutorials-1824192828) 
+- [ ] []() 
 
 
 
 ### Shop/Other
 - [ ] [Awesome Blast Gates](http://benchblog.com/how-tos/how-to-make-blast-gates-for-your-woodworking-shop-dust-collection-system/ )
+- [ ] []() 
