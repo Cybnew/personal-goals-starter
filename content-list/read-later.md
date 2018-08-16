@@ -86,6 +86,7 @@ d Things I want To Read Later
 - [ ] [Top Gear 90's Japanese Cars](https://jalopnik.com/top-gears-japan-episode-blew-my-mind-with-90s-sports-ca-1823737773) 
 - [ ] [James Deane Bitching Drifting](https://jalopnik.com/i-still-dont-understand-how-he-does-this-1824003981) 
 - [ ] [MX-5 Rain Racing](https://jalopnik.com/mx-5-cup-racing-in-the-rain-is-pure-insanity-that-you-n-1824147355) 
+- [ ] [More Badass Drifting](https://jalopnik.com/american-driving-is-echoing-back-into-drifting-in-japan-1825534424) 
 - [ ] []() 
 
 ### FRS/BRZ
@@ -136,6 +137,7 @@ d Things I want To Read Later
 - [ ] [What Freelancesrs Can Write Off on Their Taxes](https://twocents.lifehacker.com/what-freelancers-can-write-off-on-their-taxes-1823079342) 
 - [ ] [How to use smart home to help you work from home](https://lifehacker.com/use-your-smart-home-devices-to-help-you-work-from-home-1823191406) 
 - [ ] [How to budget as a freelancer](https://twocents.lifehacker.com/how-to-budget-as-a-freelancer-1823156864) 
+- [ ] [What to post to instagram](https://www.shopify.com/blog/what-to-post-instagram-ideas) 
 - [ ] []() 
 
 
@@ -174,6 +176,9 @@ d Things I want To Read Later
 - [ ] [How to choose your character class](https://kotaku.com/how-to-choose-your-d-d-character-class-1823560976) 
 - [ ] [Food Substitutions You Actually Enjoy](https://skillet.lifehacker.com/what-healthy-substitutions-do-you-actually-enjoy-1823895023) 
 - [ ] [Learn Pixel Art](https://lifehacker.com/learn-pixel-art-with-these-566-tutorials-1824192828) 
+- [ ] [I DMd for the first time](https://kotaku.com/i-dmed-in-d-d-for-the-first-time-and-now-its-all-i-can-1827717832/amp) 
+- [ ] [Epic Camper Van Conversion](http://faroutride.com/build-journal/) 
+- [ ] [Google Task New Features](https://lifehacker.com/how-to-use-googles-new-tasks-app-for-ios-and-android-1825548977) 
 - [ ] []() 
 
 
